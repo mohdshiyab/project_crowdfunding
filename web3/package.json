@@ -1,8 +1,9 @@
+
 {
   "name": "hardhat-javascript-starter",
   "scripts": {
     "build": "npx thirdweb@latest detect",
-    "deploy": "npx thirdweb@latest deploy",
+   "deploy": "npx thirdweb@latest deploy -k $37c64bbbf8232b399e48026edf8f8c2e4679127dc72141d66db0923d13619ec1",
     "release": "npx thirdweb@latest release"
   },
   "devDependencies": {
